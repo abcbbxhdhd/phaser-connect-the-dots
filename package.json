@@ -35,7 +35,7 @@
     "watcherGlob": "**"
   },
   "engines": {
-    "node": "16.x"
+    "node": "14.x"
   },
   "bugs": {
     "url": "https://github.com/ourcade/phaser3-parcel-template/issues"
