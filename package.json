@@ -31,6 +31,9 @@
 	],
 	"staticFiles": {
 		"staticPath": "public",
-		"watcherGlob": "**"
-	}
+		"watcherGlob": "**"																																										
+	},																																					
+	"engines": {
+		"node": "16.x"
+	}																																																																																																																																																																																																																					
 }
